@@ -1,0 +1,11 @@
+.projects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 70px 50px;
+}
+
+.project {
+    width: 300px;
+    margin: 20px;
+}
