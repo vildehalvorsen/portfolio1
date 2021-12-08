@@ -6,6 +6,24 @@
 }
 
 .project {
-    width: 300px;
-    margin: 20px;
+    width: 320px;
+    margin: 40px 20px;
+    background-color: white;
+}
+
+a:hover {
+    transform: scale(1.05);
+}
+
+img {
+    width: 320px;
+}
+
+h2,
+p {
+    margin: 0px;
+}
+
+.info {
+    padding: 10px 5px;
 }
