@@ -6,9 +6,11 @@
 }
 
 .project {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 10px;
     width: 320px;
     margin: 40px 20px;
-    background-color: white;
 }
 
 a:hover {
@@ -16,6 +18,7 @@ a:hover {
 }
 
 img {
+    border-radius: 10px 10px 0px 0px;
     width: 320px;
 }
 

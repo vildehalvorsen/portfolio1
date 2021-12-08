@@ -1,0 +1,29 @@
+.project {
+    padding: 0px 20px;
+    margin-bottom: 100px;
+}
+
+h3 {
+    margin: 30px 0px 5px;
+}
+
+p {
+    font-size: 0.9em;
+    margin: 0px;
+}
+
+img {
+    width: 100%;
+    max-width: 650px;
+    margin: 20px 0px;
+}
+
+@media all and (min-width: 700px) {
+    h2 {
+        font-size: 1.8em;
+    }
+    .project {
+        max-width: 700px;
+        margin: 0px auto 100px;
+    }
+}
