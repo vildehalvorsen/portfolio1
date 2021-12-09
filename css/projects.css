@@ -15,7 +15,11 @@ p {
 img {
     width: 100%;
     max-width: 650px;
-    margin: 20px 0px;
+    margin: 20px 0px 0px;
+}
+
+.image p {
+    text-decoration: underline;
 }
 
 @media all and (min-width: 700px) {
