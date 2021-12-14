@@ -9,7 +9,7 @@ h3 {
 
 p {
     font-size: 0.9em;
-    margin: 0px;
+    margin: 0px 0px 10px;
 }
 
 img {
@@ -23,11 +23,14 @@ img {
 }
 
 @media all and (min-width: 700px) {
-    h2 {
-        font-size: 1.8em;
-    }
     .project {
         max-width: 700px;
         margin: 0px auto 100px;
+    }
+    h2 {
+        font-size: 1.8em;
+    }
+    p {
+        font-size: 1em;
     }
 }
